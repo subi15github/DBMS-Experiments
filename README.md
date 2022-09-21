@@ -1,5 +1,5 @@
 # DBMS-Experiments <br/>
-## Experiment 1 : <br/>
+## Experiment 1 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-1.sql<br/>
 1. Student Table : <br/>
 <img width="311" alt="Student Table" src="https://user-images.githubusercontent.com/113248863/191417911-c3410a27-756a-4590-b368-89df2f485567.png"><br/>
 2. Faculty Table : <br/>
