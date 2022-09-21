@@ -40,6 +40,9 @@
 <img width="411" alt="fg" src="https://user-images.githubusercontent.com/113248863/191451150-25acf92d-84e2-4c5c-915f-deceeb58f13d.png"><br/>
 <img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191449336-7f992a4d-a619-4169-bf8e-9e5dca98a6d1.png"><br/>
 <img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191452357-4364a1f3-de5e-4b41-8487-7366f7fcca7c.png"><br/>
+## Experiment 4 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-4.sql<br/>
+1. Display Student Register Number,Name and DOB.<br/>
+
 
 
 
