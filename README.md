@@ -21,7 +21,7 @@
 <img width="311" alt="EXP2 OUTPUT 3" src="https://user-images.githubusercontent.com/113248863/191423055-3eb2eec8-fd29-48bb-b70f-36f0163de1d9.png"><br/>
 5. Altered Course Table : <br/>
 <img width="322" alt="EXP 2 5" src="https://user-images.githubusercontent.com/113248863/191423229-d9033550-f726-41cb-96d5-aaa0ffd26278.png"><br/>
-## Experiment 3 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP%20-3.sql<br/>
+## Experiment 3 and 4 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP%20-3.sql<br/>
 1. Populated Tables : <br/>
 <img width="369" alt="EXP 3 1" src="https://user-images.githubusercontent.com/113248863/191446308-61fc97e1-0405-40fa-a19f-c91dfb5e2ec8.png"><br/>
 <img width="414" alt="EXP 3 1 2" src="https://user-images.githubusercontent.com/113248863/191446460-5adad7a2-7c98-47d6-8ec2-c920434e5137.png"><br/>
@@ -40,9 +40,27 @@
 <img width="411" alt="fg" src="https://user-images.githubusercontent.com/113248863/191451150-25acf92d-84e2-4c5c-915f-deceeb58f13d.png"><br/>
 <img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191449336-7f992a4d-a619-4169-bf8e-9e5dca98a6d1.png"><br/>
 <img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191452357-4364a1f3-de5e-4b41-8487-7366f7fcca7c.png"><br/>
-## Experiment 4 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-4.sql<br/>
+## Experiment 5 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-4.sql<br/>
+WHERE:
 1. Display Student Register Number,Name and DOB.<br/>
-
-
-
+<img width="232" alt="Exp 4 1" src="https://user-images.githubusercontent.com/113248863/191584799-387464df-ea65-4f3f-8d6a-776dadb8dbb2.png"><BR/>
+2. List of Female Students.<br/>
+<img width="364" alt="Exp-4 2" src="https://user-images.githubusercontent.com/113248863/191585706-be54506b-be1e-4870-865b-c7d8d920bc59.png"><br/>
+3. Boy students registered for Course Number "C001".<br/>
+<img width="199" alt="EXP 4 3" src="https://user-images.githubusercontent.com/113248863/191585904-d7421ab6-1f5d-47db-90a8-9f40c8e048ca.png"><br/>
+4. Faculty Details joined before "November 2014".<br/>
+<img width="414" alt="EXP 4 4" src="https://user-images.githubusercontent.com/113248863/191586511-3e2b81e5-09c9-406c-9d32-55266e7f196d.png"><br/>
+5. Display courses not allotted to halls.<br/>
+<img width="287" alt="EXP 4 5" src="https://user-images.githubusercontent.com/113248863/191586518-a11931b6-cf23-458e-b505-0031ce5e8101.png"><br/>
+LIKE:
+6. Student name ends with "ma".<br/>
+<img width="361" alt="exp 4 6" src="https://user-images.githubusercontent.com/113248863/191586524-704697cb-36db-4ab7-813a-6758df23c5ff.png"><br/>
+7. Student name contains substring "ma".<br/>
+<img width="357" alt="EXP 4 7" src="https://user-images.githubusercontent.com/113248863/191586530-33ae600d-2344-48a6-8227-edda29d7640c.png"><br/>
+8. Students Located in cities having "sal" as substring.<br/>
+<img width="347" alt="EXP 4 8" src="https://user-images.githubusercontent.com/113248863/191587486-5379cd53-87ce-490d-a4d7-41ebcb0d39ad.png"><br/>
+9. Students name do not contain six letters.<br/>
+<img width="360" alt="EXP 4 9" src="https://user-images.githubusercontent.com/113248863/191587493-37e6d1e8-e065-47e3-a61f-08d967767c9a.png"><br/>
+10. Student names contain "th".<br/>
+<img width="358" alt="EXP 4 10" src="https://user-images.githubusercontent.com/113248863/191587497-0d7964ae-91ce-4155-9757-331f4fe1425f.png"><br/>
 
