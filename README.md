@@ -29,9 +29,17 @@
 <img width="199" alt="EXP 3 1 3" src="https://user-images.githubusercontent.com/113248863/191447081-3817285f-0320-4351-94ca-b97c770adb9b.png"><br/>
 2. Updated Student Register Number : <br/>
 <img width="369" alt="EXP 3 1" src="https://user-images.githubusercontent.com/113248863/191448242-39261af0-3957-4a7e-a990-acb2f76017db.png"><br/>
-3.Delete Record From Faculty Table : <br/>
-<img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191449336-7f992a4d-a619-4169-bf8e-9e5dca98a6d1.png">
-
+3. Delete Record From Faculty Table : <br/>
+<img width="411" alt="fg" src="https://user-images.githubusercontent.com/113248863/191451150-25acf92d-84e2-4c5c-915f-deceeb58f13d.png"><br/>
+4. Modify Date of Birth : <br/>
+<img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191449336-7f992a4d-a619-4169-bf8e-9e5dca98a6d1.png"><br/>
+5. Remove Faculty having age over 65 Years : <br/>
+<img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191452357-4364a1f3-de5e-4b41-8487-7366f7fcca7c.png"><br/>
+6. View all the records : <br/>
+<img width="369" alt="EXP 3 1" src="https://user-images.githubusercontent.com/113248863/191448242-39261af0-3957-4a7e-a990-acb2f76017db.png"><br/>
+<img width="411" alt="fg" src="https://user-images.githubusercontent.com/113248863/191451150-25acf92d-84e2-4c5c-915f-deceeb58f13d.png"><br/>
+<img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191449336-7f992a4d-a619-4169-bf8e-9e5dca98a6d1.png"><br/>
+<img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191452357-4364a1f3-de5e-4b41-8487-7366f7fcca7c.png"><br/>
 
 
 
