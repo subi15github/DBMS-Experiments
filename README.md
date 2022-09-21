@@ -63,4 +63,19 @@ LIKE:
 <img width="360" alt="EXP 4 9" src="https://user-images.githubusercontent.com/113248863/191587493-37e6d1e8-e065-47e3-a61f-08d967767c9a.png"><br/>
 10. Student names contain "th".<br/>
 <img width="358" alt="EXP 4 10" src="https://user-images.githubusercontent.com/113248863/191587497-0d7964ae-91ce-4155-9757-331f4fe1425f.png"><br/>
-
+## Experiment-6 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-6.sql<br/>
+1.<br/>
+<img width="158" alt="EXP 6 2 1" src="https://user-images.githubusercontent.com/113248863/191594655-7390663c-3d3c-4df9-b741-47a0af4dea03.png"><br/>
+2.<br/>
+<img width="227" alt="EXP 6 2 2" src="https://user-images.githubusercontent.com/113248863/191594732-e29e38ff-fddd-44d5-99c5-9ca47d943d72.png"><br/>
+3.<br/>
+<img width="305" alt="EXP 6 2 3" src="https://user-images.githubusercontent.com/113248863/191595017-52c95462-8822-498e-af1d-3898459ae971.png"><br/>
+4.<br/>
+<img width="174" alt="EXP 6 2 4" src="https://user-images.githubusercontent.com/113248863/191595333-edc0ed8f-ad18-44ac-983a-d2eef0dedf57.png"><br/>
+<img width="179" alt="EXP 6 2 4" src="https://user-images.githubusercontent.com/113248863/191595398-0f07cb03-7ff8-474d-a945-f34a049fcdef.png"><br/>
+5.<br/>
+<img width="221" alt="EXP 6 2 5" src="https://user-images.githubusercontent.com/113248863/191595507-99f4111c-b042-46b8-a7c2-d15815638baa.png"><br/>
+6.<br/>
+<img width="183" alt="EXP 6 2 6" src="https://user-images.githubusercontent.com/113248863/191595577-e790374b-64bb-44b3-8bd3-ef5bd6d7a97d.png"><br/>
+7.<br/>
+<img width="170" alt="EXP 6 2 7" src="https://user-images.githubusercontent.com/113248863/191595646-3e9026a8-eeab-45a5-bb96-700005890413.png"><br/>
