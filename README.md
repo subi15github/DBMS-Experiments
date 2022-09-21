@@ -21,5 +21,17 @@
 <img width="311" alt="EXP2 OUTPUT 3" src="https://user-images.githubusercontent.com/113248863/191423055-3eb2eec8-fd29-48bb-b70f-36f0163de1d9.png"><br/>
 5. Altered Course Table : <br/>
 <img width="322" alt="EXP 2 5" src="https://user-images.githubusercontent.com/113248863/191423229-d9033550-f726-41cb-96d5-aaa0ffd26278.png"><br/>
+## Experiment 3 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP%20-3.sql<br/>
+1. Populated Tables : <br/>
+<img width="369" alt="EXP 3 1" src="https://user-images.githubusercontent.com/113248863/191446308-61fc97e1-0405-40fa-a19f-c91dfb5e2ec8.png"><br/>
+<img width="414" alt="EXP 3 1 2" src="https://user-images.githubusercontent.com/113248863/191446460-5adad7a2-7c98-47d6-8ec2-c920434e5137.png"><br/>
+<img width="354" alt="EXP 3 1 4" src="https://user-images.githubusercontent.com/113248863/191446525-0780a5a4-2961-4750-92b1-52b0e60a34c4.png"><br/>
+<img width="199" alt="EXP 3 1 3" src="https://user-images.githubusercontent.com/113248863/191447081-3817285f-0320-4351-94ca-b97c770adb9b.png"><br/>
+2. Updated Student Register Number : <br/>
+<img width="369" alt="EXP 3 1" src="https://user-images.githubusercontent.com/113248863/191448242-39261af0-3957-4a7e-a990-acb2f76017db.png"><br/>
+3.Delete Record From Faculty Table : <br/>
+<img width="412" alt="EXP 3 8" src="https://user-images.githubusercontent.com/113248863/191449336-7f992a4d-a619-4169-bf8e-9e5dca98a6d1.png">
+
+
 
 
