@@ -130,4 +130,12 @@ ORDER BY:<br/>
 <img width="491" alt="EXP 21 3" src="https://user-images.githubusercontent.com/113248863/191792175-a205ce0c-5791-4608-b420-fdd684d465e2.png"><br/>
 
 
+## Experiment-23,24 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP%2023%20%2C24.sql<br/>
+> <img width="369" alt="EXP 23" src="https://user-images.githubusercontent.com/113248863/191833159-5ceb2303-2148-4675-98f0-8f28e7d814ef.png"><br/>
+> <img width="336" alt="EXP 23 1" src="https://user-images.githubusercontent.com/113248863/191833063-4dc31e41-4104-45e3-8a1c-284828dfe721.png"><br/>
+> <img width="347" alt="EXP 23 2" src="https://user-images.githubusercontent.com/113248863/191833306-896513a0-7b14-42f6-9f4a-64ddab6a9dc8.png"><br/>
+
+
+                     
+
 
