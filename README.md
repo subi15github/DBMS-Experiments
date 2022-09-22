@@ -121,7 +121,13 @@ ORDER BY:<br/>
 
 
 
-# Experiment-21 : 
+# Experiment-21 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-21.sql<br/>
+> 1.<br/>
+<img width="578" alt="EX 21 1" src="https://user-images.githubusercontent.com/113248863/191792688-e7d72d65-4ffb-48b7-8799-eb5b8c42c0a2.png"><br/>
+> 2.<br/>
+<img width="499" alt="EXP 21 2" src="https://user-images.githubusercontent.com/113248863/191792091-38e0f39e-b5d7-4c5f-8c32-d976a998cecd.png"><br/>
+> 3.<br/>
+<img width="491" alt="EXP 21 3" src="https://user-images.githubusercontent.com/113248863/191792175-a205ce0c-5791-4608-b420-fdd684d465e2.png"><br/>
 
 
 
