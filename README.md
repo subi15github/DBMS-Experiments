@@ -104,6 +104,7 @@ ORDER BY:<br/>
 <img width="204" alt="exp 12 1" src="https://user-images.githubusercontent.com/113248863/191701772-777938f6-a6c0-478d-ac98-1206508125ff.png"><br/>
 > Program 2 : <br/>
 <img width="171" alt="exp 12 2" src="https://user-images.githubusercontent.com/113248863/191701881-8b49ebfd-608b-49a2-bbca-10e71d6e8afd.png"><br/>
-
+## Experiment-14 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-14.sql<br/>
+> <img width="375" alt="EXP 14" src="https://user-images.githubusercontent.com/113248863/191702526-b9caeb39-8b78-4536-ac5d-3ff63240a957.png"><br/>
 
 
