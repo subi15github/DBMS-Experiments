@@ -52,7 +52,7 @@ WHERE:
 <img width="414" alt="EXP 4 4" src="https://user-images.githubusercontent.com/113248863/191586511-3e2b81e5-09c9-406c-9d32-55266e7f196d.png"><br/>
 5. Display courses not allotted to halls.<br/>
 <img width="287" alt="EXP 4 5" src="https://user-images.githubusercontent.com/113248863/191586518-a11931b6-cf23-458e-b505-0031ce5e8101.png"><br/>
-LIKE:
+LIKE:<br/>
 6. Student name ends with "ma".<br/>
 <img width="361" alt="exp 4 6" src="https://user-images.githubusercontent.com/113248863/191586524-704697cb-36db-4ab7-813a-6758df23c5ff.png"><br/>
 7. Student name contains substring "ma".<br/>
@@ -79,3 +79,16 @@ LIKE:
 <img width="183" alt="EXP 6 2 6" src="https://user-images.githubusercontent.com/113248863/191595577-e790374b-64bb-44b3-8bd3-ef5bd6d7a97d.png"><br/>
 7.<br/>
 <img width="170" alt="EXP 6 2 7" src="https://user-images.githubusercontent.com/113248863/191595646-3e9026a8-eeab-45a5-bb96-700005890413.png"><br/>
+## Experiment-7 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-7.sql<br/>
+GROUP BY-HAVING:<br/>
+1.<br/>
+<img width="196" alt="EXP 7 1 1" src="https://user-images.githubusercontent.com/113248863/191692078-d840f8bf-34b7-458e-8c83-1fc90b5d61d1.png"><br/>
+2.<br/>
+<img width="194" alt="EXP 7 1 2" src="https://user-images.githubusercontent.com/113248863/191692199-62b0baa2-6f5f-4ae1-b818-ed085fcc931b.png"><br/>
+ORDER BY:<br/>
+1.<br/>
+<img width="247" alt="EXP 7 2 1" src="https://user-images.githubusercontent.com/113248863/191692336-a2f0dada-1714-48bb-994e-b14ab5e13f70.png"><br/>
+2.<br/>
+<img width="181" alt="EXP 7 2 2" src="https://user-images.githubusercontent.com/113248863/191692435-3f76dc9f-1cab-4534-ba15-e875bef21c93.png"><br/>
+
+
