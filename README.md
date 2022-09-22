@@ -99,9 +99,11 @@ ORDER BY:<br/>
 <img width="427" alt="exp 8 3" src="https://user-images.githubusercontent.com/113248863/191698297-f81a05d3-b304-4cbd-9896-67a9643bbd3c.png"><br/>
 > 4.<br/>
 <img width="200" alt="exp 8 4" src="https://user-images.githubusercontent.com/113248863/191698375-c315afed-b730-4569-a021-2bc632f4f8a5.png"><br/>
-
-
-
+## Experiment-12 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-12.sql<br/>
+> Program 1 : <br/>
+<img width="204" alt="exp 12 1" src="https://user-images.githubusercontent.com/113248863/191701772-777938f6-a6c0-478d-ac98-1206508125ff.png"><br/>
+> Program 2 : <br/>
+<img width="171" alt="exp 12 2" src="https://user-images.githubusercontent.com/113248863/191701881-8b49ebfd-608b-49a2-bbca-10e71d6e8afd.png"><br/>
 
 
 
