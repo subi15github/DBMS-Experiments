@@ -90,5 +90,18 @@ ORDER BY:<br/>
 <img width="247" alt="EXP 7 2 1" src="https://user-images.githubusercontent.com/113248863/191692336-a2f0dada-1714-48bb-994e-b14ab5e13f70.png"><br/>
 2.<br/>
 <img width="181" alt="EXP 7 2 2" src="https://user-images.githubusercontent.com/113248863/191692435-3f76dc9f-1cab-4534-ba15-e875bef21c93.png"><br/>
+## Experiment-8 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-8.sql<br/>
+1.<br/>
+<img width="174" alt="exp 8 1" src="https://user-images.githubusercontent.com/113248863/191698143-cae14c72-d3b2-4170-9241-01c5ca1b1017.png"><br/>
+2.<br/>
+<img width="205" alt="exp 8 2" src="https://user-images.githubusercontent.com/113248863/191698216-cb82656d-8674-44a5-98a3-4f15a3c9f27c.png"><br/>
+3.<br/>
+<img width="427" alt="exp 8 3" src="https://user-images.githubusercontent.com/113248863/191698297-f81a05d3-b304-4cbd-9896-67a9643bbd3c.png"><br/>
+4.<br/>
+<img width="200" alt="exp 8 4" src="https://user-images.githubusercontent.com/113248863/191698375-c315afed-b730-4569-a021-2bc632f4f8a5.png"><br/>
+
+
+
+
 
 
