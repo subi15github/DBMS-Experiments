@@ -139,7 +139,13 @@ ORDER BY:<br/>
 <img width="499" alt="EXP 21 2" src="https://user-images.githubusercontent.com/113248863/191792091-38e0f39e-b5d7-4c5f-8c32-d976a998cecd.png"><br/>
 > 3.<br/>
 <img width="491" alt="EXP 21 3" src="https://user-images.githubusercontent.com/113248863/191792175-a205ce0c-5791-4608-b420-fdd684d465e2.png"><br/>
-## Experiment-22 : 
+## Experiment-22 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-22.sql<br/>
+> 1.<br/>
+<img width="271" alt="EXP 22 1" src="https://user-images.githubusercontent.com/113248863/191894764-aed15f20-ef55-4b05-92ad-00bc07a5dcbf.png"><br/>
+> 2.<br/>
+<img width="539" alt="EXP 22 2" src="https://user-images.githubusercontent.com/113248863/191894815-235d6f8e-932d-493b-92b0-b90e9d134d80.png"><br/>
+> 3.<br/>
+<img width="250" alt="EXP 22 3" src="https://user-images.githubusercontent.com/113248863/191894873-86af0efb-ca45-4c5d-88c5-fe90399ac00e.png"><br/>
 ## Experiment-23,24 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP%2023%20%2C24.sql<br/>
 > <img width="369" alt="EXP 23" src="https://user-images.githubusercontent.com/113248863/191833159-5ceb2303-2148-4675-98f0-8f28e7d814ef.png"><br/>
 > <img width="336" alt="EXP 23 1" src="https://user-images.githubusercontent.com/113248863/191833063-4dc31e41-4104-45e3-8a1c-284828dfe721.png"><br/>
