@@ -99,6 +99,9 @@ ORDER BY:<br/>
 <img width="427" alt="exp 8 3" src="https://user-images.githubusercontent.com/113248863/191698297-f81a05d3-b304-4cbd-9896-67a9643bbd3c.png"><br/>
 > 4.<br/>
 <img width="200" alt="exp 8 4" src="https://user-images.githubusercontent.com/113248863/191698375-c315afed-b730-4569-a021-2bc632f4f8a5.png"><br/>
+## Experiment-9 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-9.sql<br/>
+> <img width="245" alt="EXP 9 1" src="https://user-images.githubusercontent.com/113248863/191898847-05aa7147-ed45-4778-a8bc-ed312f5a4673.png"><br/>
+> <img width="211" alt="EXP 9 3" src="https://user-images.githubusercontent.com/113248863/191899326-9eb79328-a3a7-4fed-8b1f-d769a6c76e8d.png"><br/>
 ## Experiment-10 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-10.sql<br/>
 > <img width="194" alt="EXP-10" src="https://user-images.githubusercontent.com/113248863/191740547-0e615884-3274-4311-978d-a4bdb142e5e0.png"><br/>
 ## Experiment-11 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-11.sql<br/>
