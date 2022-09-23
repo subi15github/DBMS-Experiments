@@ -120,8 +120,11 @@ ORDER BY:<br/>
 > <img width="362" alt="EXP 15 1" src="https://user-images.githubusercontent.com/113248863/191885296-2c741543-0623-409c-9438-9658dc754212.png"><br/>
 > 2.<br/>
 > <img width="314" alt="exp 15 2" src="https://user-images.githubusercontent.com/113248863/191885345-b0db717c-15eb-42c9-be9a-7c987350844f.png"><br/>
-## Experiment-16 :
-
+## Experiment-16 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-16.sql<br/>
+> 1.<br/>
+> <img width="209" alt="EXP 16 1" src="https://user-images.githubusercontent.com/113248863/191888397-1e666bcf-1262-42a1-81e2-37be32940f22.png"><br/>
+> 2.<br/>
+> <img width="166" alt="EXP 16 2" src="https://user-images.githubusercontent.com/113248863/191888597-d0b69acb-4631-4ae7-80cf-fe659d7622b8.png"><br/>
 
 
 
