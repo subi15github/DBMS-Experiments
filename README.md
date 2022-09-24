@@ -132,9 +132,7 @@ ORDER BY:<br/>
 > <img width="351" alt="EXP-17" src="https://user-images.githubusercontent.com/113248863/191889329-ca56c7cc-5db5-45c7-9d3c-55d1e413759b.png"><br/>
 ## Experiment-18 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-18.sql<br/>
 > <img width="334" alt="EXP-18" src="https://user-images.githubusercontent.com/113248863/191889786-79a36fcd-8897-4ab4-aeca-7d387d820995.png"><br/>
-
-
-
+## Experiment-20 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-20<br/>
 ## Experiment-21 : https://github.com/subi15github/DBMS-Experiments/blob/main/EXP-21.sql<br/>
 > 1.<br/>
 <img width="580" alt="EXP 21 1" src="https://user-images.githubusercontent.com/113248863/191887912-0cd976ce-eb87-4465-9247-35b9b08c4dcf.png"><br/>
